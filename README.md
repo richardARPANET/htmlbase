@@ -1,7 +1,7 @@
 html base
 ================================
 
-quick and dirty base template building base, with optional js includes. 
+quick and dirty base template builder written in c#, with optional js includes. 
 
 screenshot: http://i.imgflash.com/2uc.png
 
